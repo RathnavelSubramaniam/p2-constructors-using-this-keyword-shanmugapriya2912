@@ -26,7 +26,7 @@ class Product
     {
         System.out.println("Product Id : " + productId);
         System.out.println("Product Name : " + productName);
-        System.out.println("Product price : " + price);
+        System.out.println("Product Price : " + price);
     }
 }
 public class Practical2
